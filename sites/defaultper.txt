@@ -1,0 +1,14 @@
+# file: default
+# owner: joash
+# group: joash
+user::rwx
+group::r-x
+other::r-x
+
+# file: default/default.settings.php
+# owner: joash
+# group: joash
+user::rw-
+group::r--
+other::r--
+
